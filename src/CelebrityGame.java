@@ -40,7 +40,20 @@ public class CelebrityGame {
 	 *         spaces.
 	 */
 	public boolean processGuess(String guess) {
-		return false; // stub
+		boolean matches = false;
+		String lowerTrimmedGuess = guess.trim().toLowerCase();
+
+		if(lowerTrimmedGuess.equals(gameCelebrity.getAnswer().toLowerCase())) {
+			celebGameList.remove(0);
+			if (celebGameList.size() > 0) {
+				gameCelebrity = celebGameList.get(0);
+			} else {
+				gameCelebrity = new Celebrity("", "");
+			}
+			return true;
+		} else {
+			return false;
+		}
 	}
 
 	/**

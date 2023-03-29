@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79ae64f7-b793-48f9-9fbf-a8d6618283ce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CelebrityGame.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Celebrity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CelebrityFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CelebrityGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CelebrityPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CelebrityRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StartPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CelebrityGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CelebrityGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CelebrityPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CelebrityPanel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
